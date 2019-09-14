@@ -1,0 +1,22 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "learn tdd",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amishapatel188/learn-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amishapatel188/learn-tdd/issues"
+  },
+  "homepage": "https://github.com/amishapatel188/learn-tdd#readme",
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
