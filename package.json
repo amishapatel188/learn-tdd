@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/amishapatel188/learn-tdd#readme",
   "dependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
